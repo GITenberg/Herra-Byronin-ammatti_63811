@@ -1,0 +1,26 @@
+_repo: Herra-Byronin-ammatti_63811
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    aliases:
+    - Shaw, Bernhard
+    - Shaw, George Bernard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: https://en.wikipedia.org/wiki/George_Bernard_Shaw
+description: ''
+gutenberg_issued: '2020-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63811'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Herra Byronin ammatti
+url: http://www.gutenberg.org/ebooks/63811
